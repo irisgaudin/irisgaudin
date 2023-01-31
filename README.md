@@ -18,4 +18,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/irisgaudin/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irisgaudin/" height="30" width="40" /></a>
 </p>
 
-<p> <a href="https://drive.google.com/file/d/1gSl7IA91j6esMDzXSRm9-lDP58m2YKck/view?usp=sharing" target="_blank">Check My Resume </a></p>
+<p> <a href="https://drive.google.com/file/d/1gSl7IA91j6esMDzXSRm9-lDP58m2YKck/view?usp=sharing" target="_blank:">Check My Resume </a></p>
