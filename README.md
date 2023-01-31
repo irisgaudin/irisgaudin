@@ -1,10 +1,10 @@
-<h1 align="center">Hi ! I'm Iris </h1>
-<h2 align="center>Software Developer in the making </h2>
-<h3 align="center">Welcome to my GitHub profile. It is great to have you here.</h3>
+<h1 align="center">Hi 👋! I'm Iris </h1>
+<h3 align="center">.</h3>
 
 <h2 align="left"> My Coding Journey: </h2>
 
-<p>Since October 2023 I have been dedicating my time to enhance my skills in HTML, CSS, and JavaScript. My ultimate goal is to become a full-stack developer, as I believe having a comprehensive understanding of the programming environment is crucial to building efficient and innovative solutions.
+<p>In October 2023, I enrolled as a full-time student at Ada Tech School. I have since been dedicating my time to enhance my skills in HTML, CSS, and JavaScript. 
+My ultimate goal is to become a full-stack developer, as I believe having a comprehensive understanding of the programming environment is crucial to building efficient and innovative solutions.
 
 - I have been actively working on algorithmic exercises to improve my problem-solving skills. 
 - I have also been part of full group projects, where I have had the opportunity to collaborate with others and learn from their experiences. 
