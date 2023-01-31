@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋! I'm Iris </h1>
 <h3 align="center">.</h3>
-![](https://github.com/irisgaudin/irisgaudin/blob/main/Coding%20Skills%20Loading.gif)
 <h2 align="left"> My Coding Journey: </h2>
 
 <p>In October 2023, I enrolled as a full-time student at Ada Tech School. I have since been dedicating my time to enhance my skills in HTML, CSS, and JavaScript. 
