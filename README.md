@@ -1,7 +1,7 @@
 <h1 align="center">Hey there!👋 I'm Iris </h1>
 <h2 align="left"> My Coding Journey </h2>
 
-<p>In October 2023, I took the leap and enrolled as a full-time student at Ada Tech School.</p>
+<p>In October 2022, I took the leap and enrolled as a full-time student at Ada Tech School.</p>
 <p>Since then, I've been diving into the world of HTML, CSS, and JavaScript. My ultimate goal is to become a full-stack developer because I believe that having a complete understanding of the programming environment is key to creating awesome and cutting-edge solutions.
 
 - 🎲I've been challenging myself with algorithmic exercises to boost my problem-solving skills, and it's been super rewarding!
