@@ -16,6 +16,6 @@
 <h2 align="left">More Info</h2>
 <p align="left"> 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/irisgaudin/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irisgaudin/" height="20" width="25" /></a>   or   <a href="https://drive.google.com/file/d/1gSl7IA91j6esMDzXSRm9-lDP58m2YKck/view?usp=sharing" target="_blank:" align="center">Check My Resume </a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irisgaudin/" height="20" width="25" /></a>   or   <a href="https://drive.google.com/file/d/1pOWkCRaY0qsObQ0W6UC6vpa0q7L3_yfz/view?usp=share_link" target="_blank:" align="center">Check My Resume </a>
 </p>
 
